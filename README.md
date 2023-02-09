@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jayhun24&theme=black-red&show_icons=true" align="left" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayhun24&layout=compact" align="left" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayhun24&layout=compact&theme=black-red" align="left" 
 width="47%"/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayhun24&" alt="Jayhun24" /></p>
