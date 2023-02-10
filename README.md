@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayhun-Sharafkhanov&layout=compact" align="left" 
 width="47%"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayhun24&" alt="Jayhun-Sharafkhanov" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayhun-Sharafkhanov&" alt="Jayhun-Sharafkhanov" /></p>
 
 
 
