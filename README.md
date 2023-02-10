@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Jayhun-Sharafkhanov/count.svg"/>
 </p>
-<h2 align="center"> Hi there, I'm Jayhun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
+<h2 align="center"> Hi There, I'm Jayhun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
 <h2/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jayhun-Sharafkhanov&theme=blue-green&show_icons=true" align="left" width="48%"/>
