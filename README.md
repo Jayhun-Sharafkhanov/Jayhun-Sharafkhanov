@@ -2,17 +2,17 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Jayhun24/count.svg"/>
+  <img src="https://profile-counter.glitch.me/Jayhun-Sharafkhanov/count.svg"/>
 </p>
 <h2 align="center"> Hi there, I'm Jayhun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
 <h2/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jayhun24&theme=blue-green&show_icons=true" align="left" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jayhun-Sharafkhanov&theme=blue-green&show_icons=true" align="left" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayhun24&layout=compact" align="left" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayhun-Sharafkhanov&layout=compact" align="left" 
 width="47%"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayhun24&" alt="Jayhun24" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayhun24&" alt="Jayhun-Sharafkhanov" /></p>
 
 
 
@@ -34,10 +34,8 @@ width="47%"/>
 
 ## Tech I Use:
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
